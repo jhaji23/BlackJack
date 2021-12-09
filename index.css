@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:rgb(243, 176, 8);
+    font-size: 65px;
+}
+
+body{
+    background-image: url("images/table.png");
+    background-size: cover;
+    margin: 60px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+p{
+    font-size: 40px;
+    
+    margin: 40px;
+}
+#message-el {
+    font-style: italic;
+}
+
+button{
+    color: #016f32;
+    width: 150px;
+    background-color : goldenrod;
+    font-size: 25px;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    
+}
