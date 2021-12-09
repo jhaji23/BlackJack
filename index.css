@@ -5,15 +5,20 @@
 h1{
     color:rgb(243, 176, 8);
     font-size: 65px;
+    text-align: center;
+    margin-right: 20px;
 }
 
 body{
+    box-sizing: border-box;
     background-image: url("images/table.png");
     background-size: cover;
     margin: 60px;
     text-align: center;
     color: white;
     font-weight: bold;
+    height: 82vh;
+    width: 90vw;
 }
 
 
